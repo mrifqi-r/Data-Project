@@ -1,2 +1,2 @@
-# Kaggle-Project
-Kaggle Project Repository
+# Data-Project
+All Data Project Repository
